@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="correct_answer_response">Dung!</string>
+    <string name="incorrect_answer_response">Sai!</string>
+</resources>
