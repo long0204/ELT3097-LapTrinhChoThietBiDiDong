@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Message Encrypting</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="message_hint">Type Message to be Encrypted</string>
+    <string name="subject">Subject</string>
+    <string name="confirm_message">Confirm Message</string>
+    <string name="send">Send</string>
+    <string name="encrypted_message">Encrypted Message</string>
+    <string name="no_recipient"><![CDATA[<No Recipient>]]></string>
+    <string name="no_encrypted_message">No Encrypted Message</string>
+</resources>
