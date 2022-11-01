@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Secret Message</string>
+    <string name="welcome">Welcome to the Screet Message! Click on the Start button to begin.</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+</resources>
