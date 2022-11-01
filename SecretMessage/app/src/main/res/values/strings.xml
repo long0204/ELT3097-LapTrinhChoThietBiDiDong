@@ -3,4 +3,5 @@
     <string name="welcome">Welcome to the Screet Message! Click on the Start button to begin.</string>
     <string name="next">Next</string>
     <string name="start">Start</string>
+    <string name="message_hint">Enter the message you want to encrypt here</string>
 </resources>
